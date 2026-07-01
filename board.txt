@@ -1,5 +1,8 @@
 제목 : 테스트
 내용 : 테스트내용
+asadsdasd
+asdasdas
+asdasd
 메인표시 : O
-방송표시 : O
-링크 : X
+방송표시 : X
+링크 : [팬애칭 신화를 함께 만들어가요] 벼리와 스미 이야기 1 - 캐릭터 소개편 / https://cafe.naver.com/pingz/1623
